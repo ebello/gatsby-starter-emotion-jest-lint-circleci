@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-emotion-jest-lint-circleci",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby that includes linting, testing, emotion for CSS-in-JS, and CircleCI support.",
+  "description": "A simplified starter for Gatsby that includes linting, testing, emotion for CSS-in-JS, and CircleCI support.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
