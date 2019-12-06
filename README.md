@@ -14,10 +14,10 @@ Adds support for:
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
+    Use the Gatsby CLI to create a new site, specifying this starter.
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
+    # create a new Gatsby site using this starter
     gatsby new my-new-site https://github.com/ebello/gatsby-starter-emotion-jest-lint-circleci
     ```
 
