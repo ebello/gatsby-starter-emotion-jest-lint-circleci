@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders correctly 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  padding: 32px;
+  background-color: hotpink;
+  font-size: 24px;
+  border-radius: 4px;
+}
+
+<div
+    class="emotion-0"
+  >
+    Hello world!
+  </div>
+  .emotion-0 {
+  margin-left: 18px;
+  padding: 12px;
+}
+
+<div
+    class="emotion-0 emotion-1"
+  >
+    this is a description
+  </div>
+</DocumentFragment>
+`;
