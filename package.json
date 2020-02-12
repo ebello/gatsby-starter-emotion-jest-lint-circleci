@@ -8,10 +8,11 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "yarn develop",
-    "serve": "gatsby serve",
+    "serve": "yarn build && gatsby serve -p=8000",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:updatesnapshots": "yarn test -- --updateSnapshot",
+    "test:coverage": "jest --collectCoverage",
     "lint:es": "eslint --ignore-path .gitignore \"**/*.{js,jsx}\"",
     "lint:css": "stylelint --ignore-path .gitignore \"**/*.{js,jsx}\"",
     "lint": "yarn lint:es && yarn lint:css"
