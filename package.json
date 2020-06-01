@@ -37,7 +37,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^25.5.3",
+    "jest": "^26.0.1",
     "jest-emotion": "^10.0.32",
     "stylelint": "^13.5.0",
     "stylelint-config-standard": "^20.0.0"
