@@ -39,7 +39,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.4.2",
     "jest-emotion": "^10.0.32",
-    "stylelint": "^13.6.1",
+    "stylelint": "^13.7.0",
     "stylelint-config-standard": "^20.0.0"
   },
   "repository": {
