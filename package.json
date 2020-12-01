@@ -23,7 +23,7 @@
     "gatsby": "^2.24.91",
     "gatsby-plugin-emotion": "^4.1.22",
     "react": "^16.14.0",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "@emotion/babel-preset-css-prop": "^10.0.27",
